@@ -13,7 +13,8 @@
 
 ### 📫 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gs.sh.7543/?locale=en)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+
 
 ---
 
@@ -33,4 +34,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=police23&show_icons=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=police23&layout=compact&theme=dark)
 
-![snake gif](https://github.com/police23/police23/blob/output/github-contribution-grid-snake.svg)
