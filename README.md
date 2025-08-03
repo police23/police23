@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ha Xuan Bac</h1>
+<h3 align="center">A passionate software engineer from Viet Nam</h3>
 
-<!--
-**police23/police23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Node.js, Nest.js, React, and MongoDB**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **JavaScript, Backend, Database**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **haxuanbac244@gmail.com**
+
+- ⚡ Fun fact: **I love building things and solving problems**
+
+---
+
+### 📫 Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gs.sh.7543/?locale=en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
+
+---
+
+### 🧰 Languages and Tools:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=police23&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=police23&layout=compact&theme=dark)
+
+![snake gif](https://github.com/police23/police23/blob/output/github-contribution-grid-snake.svg)
